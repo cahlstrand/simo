@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="en"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <title>&Aring;land Islands 0.9</title>
+        <title>&Aring;land Islands 0.91</title>
 		<meta name="keywords" content="maanpuolustus, tykki, amos, mlrs, archer, 120mm, patria, bonus, excalibur, 155mm"/>
     <style>body {margin: 5px; padding: 5px;}</style>
 	</head>
